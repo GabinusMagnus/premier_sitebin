@@ -2,15 +2,15 @@ Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs 
 
 > Pour voir le code MarkDown sous jacent, cliquer sur le crayon en haut à droite.
 
-# Voici un titre de niveau 1
-## Et voici un titre de niveau 2
-Ceci est un paragraphe.  
-Avec un retour à la ligne sans saut de ligne.
+# Accueil
+## classeur des nb nsi
+C'est en construction d'accord ?
+Une mouette me nargue à la fenêtre.
 
-Et avec un retour à la ligne avec saut de ligne.
+J'aime me beurrer la biscotte.
 
-## Un lien :
-Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
+## Notebooks de première :
+*Archive contenant tous les notebooks* [Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
 
 ## Une image :
 ![illustration mkdocs-material](https://squidfunk.github.io/mkdocs-material/assets/images/illustration.png)

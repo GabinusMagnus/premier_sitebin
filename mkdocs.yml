@@ -30,8 +30,8 @@ nav:
 theme:
     name: material # autres thèmes : https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
     custom_dir: overrides #  
-    font: false  # RGPD ; pas de fonte Google
-    language: fr # français
+    font: false  # RGPD ; pas de fonte Google.
+    language: fr
     icon:
       logo: fontawesome/solid/code # image qui apparait dans l'en tête à gauche du titre de la page
       # et qui est support du lien qui renvoie à la racine du site depuis toutes les pages
@@ -39,9 +39,9 @@ theme:
     
     # Palettes de couleurs jour/nuit, cf : https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
     palette: 
-      - scheme: default # nom du thème clair
-        primary: lime # couleur primaire des titres, des liens, ..., à prendre dans la liste
-        accent: amber # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
+      - scheme: slate # thème sombre
+        primary: black # couleur primaire des titres, des liens, ..., à prendre dans la liste
+        accent: red # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
         toggle: # définition du bouton pour switcher de palette
           icon: material/weather-sunny # apparence
           name: Basculer en mode sombre # message
@@ -107,19 +107,18 @@ plugins:
 ### Configuration d'une licence
 # Information de droit d'auteur qui s'affiche dans le pied de page pour toutes les pages du site
 copyright: >
-    Document partagé par <a href="https://github.com/ericECmorlaix" target="_blank">Eric MADEC</a>
-    &copy; 2021 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a>
-    <br> Illustrations par <a href="https://undraw.co/" target="_blank">UnDraw</a>
+    Document partagé par <a href="https://github.com/GabinusMagnus" target="_blank">Gabin Courdy</a>
+    sans licence, faîtes-en ce que vous en voulez</a>
 
 
 ### Configuration de liens sociaux https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#social-links 
 extra:
   social: # A personaliser...
     - icon: fontawesome/solid/paper-plane
-      link: mailto:eric.madec@ecmorlaix.fr
+      link: mailto:gcourdy@gmail.com
       name: Pour toute question, suggestion ou commentaire, écrire à l'auteur
     - icon: fontawesome/brands/github
-      link: https://github.com/ericECmorlaix/base_mkdocs_material
+      link: https://github.com/GabinusMagnus/premier_sitebin/
       name: dépôt github
     - icon: fontawesome/solid/school
       link: https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/
