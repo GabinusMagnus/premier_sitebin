@@ -1,12 +1,12 @@
 # Fichier de configuration du site à personnaliser
 ### Configuration minimale
-site_name: Base MkDocs Material # Nom du site <70 caractères, apparait dans l'onglet du navigateur 
-site_url: https://ericecmorlaix.github.io/base_mkdocs_material/ # Adresse web principale de publication du site, à modifier au format https://votrePseudoGitHub.github.io/votreDepot/
+site_name: Premier Sitebin # Nom du site <70 caractères, apparait dans l'onglet du navigateur 
+site_url: https://gabinusmagnus.github.io/premier_sitebin/ # Adresse web principale de publication du site, à modifier au format https://votrePseudoGitHub.github.io/votreDepot/
 
 ### Configuration du dépôt
 # Ajoute en haut à droite de chaque page du site, icône, nom et lien vers le dépot GitHub du projet.
-repo_url: https://github.com/ericECmorlaix/base_mkdocs_material
-repo_name: 'base_mkdocs_material' # Personnalise le nom générique "GitHub" donné par défaut au lien vers le dépot GitHub du projet.
+repo_url: https://github.com/GabinusMagnus/premier_sitebin
+repo_name: 'dépôt git du sitebin' # Personnalise le nom générique "GitHub" donné par défaut au lien vers le dépot GitHub du projet.
 edit_uri: edit/main/docs/ # Complément au chemin pour aller depuis `repo_url:` jusqu'au répertoire `docs` ;
 # Ce qui permet avec MkDocs-Material d'ajouter un bouton (crayon) d'édition du code source.md d'une page du site depuis le navigateur
 # (edit => édition avec connexion | blob, tree => lecture anonyme)
@@ -14,7 +14,7 @@ edit_uri: edit/main/docs/ # Complément au chemin pour aller depuis `repo_url:` 
 ### Configuration de métadonnées
 # Métadonnées de description <300 caratères, et d'auteur pour toutes les pages du site 
 site_description: Exemple de site de base pour MkDocs avec le thème Material à personaliser
-site_author: "Eric MADEC"
+site_author: "Gabin Courdy"
 
 ### Configuration de la stucture de navigation
 # Dossier source, chemin relatif au fichier mkdocs.yml
@@ -23,6 +23,7 @@ docs_dir: docs
 nav: 
   - La page d'accueil : index.md
   - Un notebook jupyter : Notebook.ipynb
+  - Liste de ce qui est à faire : todo.txt
   # Référencer vos autres pages ci-dessus...
 
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
