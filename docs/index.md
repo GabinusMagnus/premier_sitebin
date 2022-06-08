@@ -10,7 +10,7 @@ Une mouette me nargue à la fenêtre.
 J'aime me beurrer la biscotte.
 
 ## Notebooks de première :
-*Archive contenant tous les notebooks* [archive_nb.tar.gz](https://github.com/GabinusMagnus/premier_sitebin/blob/ce10e25aec1de4bc9c52829b3aeca5842c4cf73b/docs/nb_1ère/archive_nb.tar.gz)
+*Archive contenant tous les notebooks* [archive_nb.tar.gz](https://github.com/GabinusMagnus/premier_sitebin/raw/main/docs/nb_1%C3%A8re/archive_nb.tar.gz)
 
 Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
 
