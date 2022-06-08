@@ -10,11 +10,12 @@ Une mouette me nargue à la fenêtre.
 J'aime me beurrer la biscotte.
 
 ## Notebooks de première :
-*Archive contenant tous les notebooks* [notebook.tar.gz]()
+*Archive contenant tous les notebooks* [archive_nb.tar.gz](https://github.com/GabinusMagnus/premier_sitebin/blob/ce10e25aec1de4bc9c52829b3aeca5842c4cf73b/docs/nb_1ère/archive_nb.tar.gz)
+
 Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
 
 ## Une image :
-![illustration mkdocs-material](https://squidfunk.github.io/mkdocs-material/assets/images/illustration.png)
+![illustration mkdocs-material](https://raw.githubusercontent.com/GabinusMagnus/premier_sitebin/c86a626479ca81fd037ad152bf3bb51b7916af45/docs/images/suse.png)
 
 ## Une liste :
 - Toto ;
