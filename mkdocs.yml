@@ -24,7 +24,7 @@ nav:
   - La page d'accueil : index.md
   - Un notebook jupyter : Notebook.ipynb
   - Liste de ce qui est à faire : todo.txt
-  - Dossier des notebooks : 
+  - Dossier des notebooks : nb_1ere/dossiers_nb/index.php
   # Référencer vos autres pages ci-dessus...
 
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
